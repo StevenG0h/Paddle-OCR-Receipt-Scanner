@@ -1,4 +1,4 @@
-## Receipt-Based Expense Tracking System
+## Receipt-Based Scanner
 
 This system is designed to assist users in tracking their expenses by extracting essential data from shopping receipts. 
 
